@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+.venv/
+
+# Streamlit secrets
+.streamlit/secrets.toml
+
+# macOS system files
+.DS_Store
+
+# Environment files
+.env
+
+# Heroku build artifacts (optional)
+*.log
+
+# SQLite lock or temp files (if any)
+*.sqlite3-journal
+*.db-journal
+
+# Node modules (if frontend packages end up being used)
+node_modules/
